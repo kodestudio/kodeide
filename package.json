@@ -1,0 +1,29 @@
+{
+  "name": "kodeide",
+  "version": "1.0.0",
+  "description": "An IDE for Kode Developer",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodestudio/kodeide.git"
+  },
+  "keywords": [
+    "IDE",
+    "linux",
+    "kode",
+    "kodepas",
+    "kodecompiler",
+    "pascal",
+    "windows",
+    "hydroos"
+  ],
+  "author": "Le Minh Tri & Vo Quoc Thinh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kodestudio/kodeide/issues"
+  },
+  "homepage": "https://github.com/kodestudio/kodeide#readme"
+}
